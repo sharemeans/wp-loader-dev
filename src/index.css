@@ -1,0 +1,6 @@
+html,body {
+  background-color: purple;
+  margin: 0;
+  padding: 0;
+  background-image: url(./assets/test.png);
+}
